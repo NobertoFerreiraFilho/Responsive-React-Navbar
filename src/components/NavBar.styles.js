@@ -28,6 +28,12 @@ export const Menu = styled.div`
   justify-content: center;
   align-items: center;
   margin-right: 2rem;
+
+  a{
+    text-decoration: none;
+    width: 100%;
+  }
+  
   .list {
     display: flex;
     justify-content: center;
@@ -63,7 +69,7 @@ export const Menu = styled.div`
 
     }
 
-    .items:nth-child(1) {
+    a:nth-child(1) {
       margin-top: 1rem;
     }
     .items {
