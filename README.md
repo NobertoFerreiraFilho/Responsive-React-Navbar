@@ -1,6 +1,6 @@
-# Responsive NavBar with React Js 
-![LastModifyBadge](https://img.shields.io/github/last-commit/NobertoFerreiraFilho/Responsive-React-Navbar?style=plastic)
+# Responsive NavBar with React Js
 
+![LastModifyBadge](https://img.shields.io/github/last-commit/NobertoFerreiraFilho/Responsive-React-Navbar?style=plastic)
 
 This project was created by Noberto Ferreira Filho with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -19,12 +19,11 @@ That's a responsive NavBar using **ReactJs**. This project was created in order 
 ## :hammer: Component Screenshots
 
 - Large mode (Desktop / Notebook)
-<img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Large.jpg' Width='550'/>
+  <img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Large.jpg' Width='550'/>
 
 - Mobile mode (width < 500px)
-<img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Closed.jpg' Width='550'/>
-<img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Opened.jpg' Width='550'/>
-
+  <img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Closed.jpg' Width='550'/>
+  <img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Opened.jpg' Width='550'/>
 
 ---
 
@@ -32,55 +31,48 @@ That's a responsive NavBar using **ReactJs**. This project was created in order 
 
 <ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
 <il>
-<code style='background-color: gray; color:white; width:170px; border-radius: 10px; text-align:center; margin-left:1px'>React Js</code>
+<img src='https://img.shields.io/badge/ReactJs-black?logo=react'/>
 </il>
 <il>
-<code style='background-color: gray; color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>CSS3 / HTML5</code>
+<img src='https://img.shields.io/badge/Javascript-black?logo=javascript'/>
 </il>
 <il>
-<code style='background-color: gray; color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>GitHub</code>
+<img src='https://img.shields.io/badge/CSS3-black?logo=CSS3'/>
+</il>
+<il>
+<img src='https://img.shields.io/badge/HTML5-black?logo=HTML5'/>
+</il>
+<il>
+<img src='https://img.shields.io/badge/Git-black?logo=git'/>
+</il>
+<il>
+<img src='https://img.shields.io/badge/VSCode-black?logo=visual-studio-code'/>
 </il>
 </ul>
 
 <ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
 <il>
-<code style='background-color: rgba(30,30,30, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>CI/CD</code>
+<img src='https://img.shields.io/badge/Functional%20Component-black?logo=Functional-Component'/>
 </il>
 <il>
-<code style='background-color: rgba(30,30,30, 1); color:white; width:295px; border-radius: 10px; text-align:center;margin-left:4px'>Functional components: Arrow function</code>
+<img src='https://img.shields.io/badge/JSX-black?logo=JSX'/>
 </il>
 <il>
-<code style='background-color: rgba(30,30,30, 1); color:white; width:295px; border-radius: 10px; text-align:center;margin-left:4px'>JSX syntax</code>
+<img src='https://img.shields.io/badge/Flex%20box-black?logo=Flex-box'/>
 </il>
 <il>
-<code style='background-color: rgba(30,30,30, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>Flexbox</code>
-</il>
-<il>
-<code style='background-color: rgba(30,30,30, 1); color:white; width:180px; border-radius: 10px; text-align:center;margin-left:4px'>Conditional Rendering</code>
+<img src='https://img.shields.io/badge/Conditional%20Rendering-black?logo=Conditional-Rendering'/>
 </il>
 </ul>
 
 <ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
 <il>
-<code style='background-color: rgba(30,30,130, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>Styled-Components</code>
+<img src='https://img.shields.io/badge/Styled%20Components-black?logo=Styled-Components'/>
 </il>
 <il>
-<code style='background-color: rgba(30,30,130, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>Font-Awesome</code>
-</il>
-<il>
-<code style='background-color: rgba(30,30,130, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>React-Router</code>
-</il>
-<il>
-<code style='background-color: rgba(30,30,130, 1); color:white; width:180px; border-radius: 10px; text-align:center;margin-left:4px'>API consuming: Axios</code>
-</il>
-<il>
-<code style='background-color: rgba(30,30,130, 1); color:white; width:180px; border-radius: 10px; text-align:center;margin-left:4px'>API consuming: Fetch</code>
+<img src='https://img.shields.io/badge/Font%20Awesome-black?logo=Font-Awesome'/>
 </il>
 </ul>
-
-
-
-
 
 ## Available Scripts
 
