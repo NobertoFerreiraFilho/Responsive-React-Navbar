@@ -18,10 +18,10 @@ That's a responsive NavBar using **ReactJs**. This project was created in order 
 
 ## :hammer: Component Screenshots
 
-- Large mode (Desktop / Notebook)
+- Large mode (Desktop / Notebook)  <br />
   <img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Large.jpg' Width='550'/>
 
-- Mobile mode (width < 500px)
+- Mobile mode (width < 500px)  <br />
   <img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Closed.jpg' Width='550'/>
   <img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Opened.jpg' Width='550'/>
 
