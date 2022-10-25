@@ -1,9 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-<img src='https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/NavBar.jpg'/>
-
 # Responsive NavBar with React Js 
 ![LastModifyBadge](https://img.shields.io/github/last-commit/NobertoFerreiraFilho/Responsive-React-Navbar?style=plastic)
 
