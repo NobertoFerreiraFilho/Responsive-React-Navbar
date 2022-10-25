@@ -2,6 +2,92 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src='https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/NavBar.jpg'/>
+
+# Responsive NavBar with React Js 
+![LastModifyBadge](https://img.shields.io/github/last-commit/NobertoFerreiraFilho/Responsive-React-Navbar?style=plastic)
+
+
+This project was created by Noberto Ferreira Filho with [Create React App](https://github.com/facebook/create-react-app).
+
+That's a responsive NavBar using **ReactJs**. This project was created in order to practice and also to inspire others.
+
+<p align='center'>
+<img src='https://img.shields.io/static/v1?label=ReactJs&message=framework&color=blue&logo=REACT'>
+<img src='https://img.shields.io/static/v1?label=Status&message=DONE&color=brightgreen'>
+<img src='https://img.shields.io/github/stars/NobertoFerreiraFilho/Responsive-React-Navbar'>
+<img src='https://img.shields.io/github/forks/NobertoFerreiraFilho/Responsive-React-Navbar'>
+<img src='https://img.shields.io/github/issues/NobertoFerreiraFilho/Responsive-React-Navbar'>
+</p>
+
+---
+
+## :hammer: Component Screenshots
+
+- Large mode (Desktop / Notebook)
+<img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Large.jpg' Width='550'/>
+
+- Mobile mode (width < 500px)
+<img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Closed.jpg' Width='550'/>
+<img src='https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar-Mobile-Opened.jpg' Width='550'/>
+
+
+---
+
+## Technics, Technologies and Dependences used:
+
+<ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
+<il>
+<code style='background-color: gray; color:white; width:170px; border-radius: 10px; text-align:center; margin-left:1px'>React Js</code>
+</il>
+<il>
+<code style='background-color: gray; color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>CSS3 / HTML5</code>
+</il>
+<il>
+<code style='background-color: gray; color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>GitHub</code>
+</il>
+</ul>
+
+<ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
+<il>
+<code style='background-color: rgba(30,30,30, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>CI/CD</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,30, 1); color:white; width:295px; border-radius: 10px; text-align:center;margin-left:4px'>Functional components: Arrow function</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,30, 1); color:white; width:295px; border-radius: 10px; text-align:center;margin-left:4px'>JSX syntax</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,30, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>Flexbox</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,30, 1); color:white; width:180px; border-radius: 10px; text-align:center;margin-left:4px'>Conditional Rendering</code>
+</il>
+</ul>
+
+<ul style='display:flex; flex-wrap: wrap; justify-content:center;'>
+<il>
+<code style='background-color: rgba(30,30,130, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>Styled-Components</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,130, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>Font-Awesome</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,130, 1); color:white; width:170px; border-radius: 10px; text-align:center;margin-left:4px'>React-Router</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,130, 1); color:white; width:180px; border-radius: 10px; text-align:center;margin-left:4px'>API consuming: Axios</code>
+</il>
+<il>
+<code style='background-color: rgba(30,30,130, 1); color:white; width:180px; border-radius: 10px; text-align:center;margin-left:4px'>API consuming: Fetch</code>
+</il>
+</ul>
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
