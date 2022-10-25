@@ -4,6 +4,8 @@
 
 This project was created by Noberto Ferreira Filho with [Create React App](https://github.com/facebook/create-react-app).
 
+![Gif of the project](https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar.gif)
+
 That's a responsive NavBar using **ReactJs**. This project was created in order to practice and also to inspire others.
 
 <p align='center'>
