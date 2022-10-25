@@ -42,6 +42,7 @@ export const Menu = styled.div`
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0rem;
+    transition: 0.3s ease-in-out;
   }
 
   .items {
@@ -51,6 +52,7 @@ export const Menu = styled.div`
     text-transform: uppercase;
     color: #f1f1f1;
     cursor: pointer;
+    transition: 0.15s ease-in-out;
 
     :hover{
         scale: 0.95;
