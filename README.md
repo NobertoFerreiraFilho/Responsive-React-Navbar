@@ -61,6 +61,9 @@ That's a responsive NavBar using **ReactJs**. This project was created in order 
 <img src='https://img.shields.io/badge/Flex%20box-black?logo=Flex-box'/>
 </il>
 <il>
+<img src='https://img.shields.io/badge/React%20Hooks-black?logo=React-Hooks'/>
+</il>
+<il>
 <img src='https://img.shields.io/badge/Conditional%20Rendering-black?logo=Conditional-Rendering'/>
 </il>
 </ul>
